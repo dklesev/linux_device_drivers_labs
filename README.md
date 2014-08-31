@@ -1,4 +1,1 @@
-linux_device_drivers_labs
-=========================
-
-Implemented labs from Writing Linux Device Driver Book
+Implementierung der Labs aus dem Buch "Writing Linux Device Driver"
